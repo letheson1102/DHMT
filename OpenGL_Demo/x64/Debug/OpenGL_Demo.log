@@ -1,0 +1,67 @@
+﻿  main.cpp
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\include\vector_matrix.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(373,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(373,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(374,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(374,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(374,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(411,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(411,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(429,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(429,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(444,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(444,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(457,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(457,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(554,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(600,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(624,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(669,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(703,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(720,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(720,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(737,132): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(737,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(754,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(772,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(792,143): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(792,119): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(809,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(809,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(827,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(845,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(867,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(893,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(921,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(965,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(974,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(986,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(996,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(1712,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(1712,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(1712,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(1723,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(1723,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(1723,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2126,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2142,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2208,20): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2208,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2363,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2369,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2386,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2392,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2410,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2416,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2528,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2532,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2536,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2537,44): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2540,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2541,45): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2544,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2548,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\hoang\Desktop\Nhat - Final\OpenGL_Demo\main.cpp(2549,44): warning C4305: '=': truncation from 'double' to 'float'
+  OpenGL_Demo.vcxproj -> C:\Users\hoang\Desktop\Nhat - Final\x64\Debug\OpenGL_Demo.exe

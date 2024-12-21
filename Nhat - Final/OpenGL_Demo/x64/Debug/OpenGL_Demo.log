@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\DHMT\Nhat - Final\OpenGL_Demo\include\vector_matrix.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(183,52): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(183,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(183,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(194,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(194,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(194,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(205,52): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(205,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(205,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(226,29): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(226,22): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\DHMT\Nhat - Final\OpenGL_Demo\main.cpp(226,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  OpenGL_Demo.vcxproj -> D:\DHMT\Nhat - Final\x64\Debug\OpenGL_Demo.exe
